@@ -1,3 +1,4 @@
 langchain
-openai
+openai api
+gradio
 hugging face
